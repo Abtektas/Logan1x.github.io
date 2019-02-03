@@ -1,7 +1,3 @@
-Personal Portfolio Website.😎
-contribute as much as you can
-
-Visit Here to See [Website](https://logan1x.github.io).
 
 See `License` to use for personal project.
 
@@ -17,5 +13,3 @@ See `License` to use for personal project.
 - Shivam Pachauri([@shivamp123](https://github.com/shivamp123))
 - Chirag Jain([@chiraag_jain](https://github.com/chiraag_jain))
 - Ashish Bardhan([@AshBardhan](https://github.com/AshBardhan))
-
-//Please refer to some images/screenshots and development stack to provide a better overview of your contribution.
